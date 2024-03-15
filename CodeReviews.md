@@ -3,4 +3,4 @@ First off, we will delve into the world of code reviews, exploring its purpose, 
 “Code reviews are methodical assessments of code designed to identify bugs, increase code quality, and help developers learn the source code.”
 
 A code review is a crucial stage in the software development process that follows coding completion. It allows a developer to acquire a second opinion on the solution and implementation before merging it into the main branch or an upstream branch like a feature branch.
-Creating a robust code review procedure stops unstable code from being shipped to clients and lays the groundwork for ongoing development. To ensure that every piece of code has been reviewed by a team member and to improve code quality, code reviews should be included into the workflow of software development teams.
+Creating a robust code review procedure stops unstable code from being shipped to clients and lays the groundwork for ongoing development. To ensure that every piece of code has been reviewed by a team member and to improve code quality, code reviews should be included into the workflow of software development teams. 
